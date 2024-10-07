@@ -1,0 +1,6 @@
+nameInput = input("Enter your name")
+condimentInput = input ("Enter your favorite condiment")
+condimentInput = condimentInput.lower()
+
+if condimentInput == "mayo" or condimentInput == "mayonnaise" then:
+    print("Get out of here")
